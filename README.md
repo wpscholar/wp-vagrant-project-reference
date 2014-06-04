@@ -1,16 +1,5 @@
 # WordPress Vagrant Projects
 
-## Provisioners
-| Provisioner
-| :---
-| [Shell Scripts](http://en.wikipedia.org/wiki/Shell_script)
-| [Puppet](http://puppetlabs.com/)
-| [Chef](http://www.getchef.com/chef/)
-| [Ansible](http://www.ansible.com/home)
-| [SaltStack](http://www.saltstack.com/community/)
-| [Docker](http://www.docker.com/)
-
-
 ## Projects
 | Project Name | Provisioner | Web Server | PHP Version
 | :--- | :--- | :--- | :---
@@ -33,6 +22,16 @@
 | [WordPress Machine](https://github.com/audionerd/wordpress-machine) | shell | apache | 5.3.10
 | [Vagrant Ansible WordPress](https://github.com/jalefkowit/vagrant-ansible-wordpress) | ansible | apache | 5.?
 | [VCCW](https://github.com/miya0001/vccw) | chef | apache | 5.?
+
+## Provisioners
+| Provisioner
+| :---
+| [Shell Scripts](http://en.wikipedia.org/wiki/Shell_script)
+| [Puppet](http://puppetlabs.com/)
+| [Chef](http://www.getchef.com/chef/)
+| [Ansible](http://www.ansible.com/home)
+| [SaltStack](http://www.saltstack.com/community/)
+| [Docker](http://www.docker.com/)
 
 ## Contribute
 Is there a project missing?  Is any of this data outdated?  Please submit a pull request with any changes.  Thank you!
