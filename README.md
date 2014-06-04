@@ -1,7 +1,5 @@
 # WordPress Vagrant Projects
 
----
-
 ## Provisioners
 | ---
 | [Shell Scripts](http://en.wikipedia.org/wiki/Shell_script)
