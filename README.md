@@ -1,7 +1,8 @@
 # WordPress Vagrant Projects
 
 ## Provisioners
-| ---
+| Provisioner
+| :---
 | [Shell Scripts](http://en.wikipedia.org/wiki/Shell_script)
 | [Puppet](http://puppetlabs.com/)
 | [Chef](http://www.getchef.com/chef/)
