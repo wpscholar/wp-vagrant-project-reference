@@ -15,6 +15,7 @@
 | [Salty WordPress](https://github.com/humanmade/Salty-WordPress) | salt stack | nginx | 5.?
 | [Docker WordPress](https://github.com/paulczar/docker-wordpress) | docker | apache | 5.?
 | [Ansible Vagrant](https://bitbucket.org/wpscholar/ansible-vagrant) | ansible | apache | 5.5.x
+| [Bedrock Ansible](https://github.com/roots/bedrock-ansible) | ansible | nginx | 5.5.x
 | [Genesis WordPress](https://github.com/genesis/wordpress/) | ansible | apache | 5.?
 | [WordPress Kickstart](https://github.com/jnettome/wordpress_kickstart) | puppet | nginx | 5.?
 | [Vagrant, nginx, WordPress, Puppet](https://github.com/MikeRogers0/vagrant-nginx-wordpress-puppet) | puppet | nginx | 5.4 
