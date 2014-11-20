@@ -23,6 +23,8 @@
 | [WordPress Machine](https://github.com/audionerd/wordpress-machine) | shell | apache | 5.3.10
 | [Vagrant Ansible WordPress](https://github.com/jalefkowit/vagrant-ansible-wordpress) | ansible | apache | 5.?
 | [VCCW](https://github.com/miya0001/vccw) | chef | apache | 5.?
+| [ansible-wordpress-nginx-php-fpm-mariadb](https://github.com/davidneudorfer/ansible-wordpress-nginx-php-fpm-mariadb) | ansible | nginx | 5.4
+| [Vagrant Ansible Auto WordPress](https://github.com/davidneudorfer/vagrant-ansible-auto-wordpress) | ansible | nginx | 5.?
 
 ## Provisioners
 | Provisioner
