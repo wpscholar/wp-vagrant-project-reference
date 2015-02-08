@@ -5,6 +5,7 @@
 | :--- | :--- | :--- | :---
 | [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) |  shell | nginx | 5.5.x
 | [VVV Apache](https://github.com/ericmann/vvv-apache) | shell | apache | 5.5.x
+| [VVV MultiMachine](https://github.com/evelynriossf/VVV-MultiMachine) | shell | apache or nginx | 5.5x
 | [WordPress Theme Review VVV](https://github.com/aubreypwd/wordpress-themereview-vvv) | shell | nginx | 5.5.x
 | [VagrantPress](http://vagrantpress.org/) | puppet | apache | 5.?
 | [VIP Quickstart](https://github.com/Automattic/vip-quickstart) | puppet | nginx | 5.?
