@@ -26,6 +26,7 @@
 | [VCCW](https://github.com/miya0001/vccw) | chef | apache | 5.?
 | [ansible-wordpress-nginx-php-fpm-mariadb](https://github.com/davidneudorfer/ansible-wordpress-nginx-php-fpm-mariadb) | ansible | nginx | 5.4
 | [Vagrant Ansible Auto WordPress](https://github.com/davidneudorfer/vagrant-ansible-auto-wordpress) | ansible | nginx | 5.?
+| [WP Vagrant](https://github.com/digitalquery/wp-vagrant) | shell | nginx | 5.5.x
 
 ## Provisioners
 | Provisioner
