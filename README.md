@@ -7,7 +7,7 @@
 | [VVV Apache](https://github.com/ericmann/vvv-apache) | shell | apache | 5.5.x
 | [VVV MultiMachine](https://github.com/evelynriossf/VVV-MultiMachine) | shell | apache or nginx | 5.5x
 | [WordPress Theme Review VVV](https://github.com/aubreypwd/wordpress-themereview-vvv) | shell | nginx | 5.5.x
-| [VagrantPress](http://vagrantpress.org/) | puppet | apache | 5.?
+| [VagrantPress](https://github.com/vagrantpress/vagrantpress) | puppet | apache | 5.?
 | [VIP Quickstart](https://github.com/Automattic/vip-quickstart) | puppet | nginx | 5.?
 | [Primary Vagrant](https://github.com/ChrisWiegman/Primary-Vagrant) | puppet | apache | 5.5.x
 | [Chassis](https://github.com/Chassis/Chassis) | puppet | nginx | 5.?
@@ -16,7 +16,7 @@
 | [Salty WordPress](https://github.com/humanmade/Salty-WordPress) | salt stack | nginx | 5.?
 | [Docker WordPress](https://github.com/paulczar/docker-wordpress) | docker | apache | 5.?
 | [Ansible Vagrant](https://bitbucket.org/wpscholar/ansible-vagrant) | ansible | apache | 5.5.x
-| [Bedrock Ansible](https://github.com/roots/bedrock-ansible) | ansible | nginx | 5.5.x
+| [Trellis](https://github.com/roots/trellis) | ansible | nginx | 5.6.x
 | [Genesis WordPress](https://github.com/genesis/wordpress/) | ansible | apache | 5.?
 | [WordPress Kickstart](https://github.com/jnettome/wordpress_kickstart) | puppet | nginx | 5.?
 | [Vagrant, nginx, WordPress, Puppet](https://github.com/MikeRogers0/vagrant-nginx-wordpress-puppet) | puppet | nginx | 5.4 
@@ -27,6 +27,7 @@
 | [ansible-wordpress-nginx-php-fpm-mariadb](https://github.com/davidneudorfer/ansible-wordpress-nginx-php-fpm-mariadb) | ansible | nginx | 5.4
 | [Vagrant Ansible Auto WordPress](https://github.com/davidneudorfer/vagrant-ansible-auto-wordpress) | ansible | nginx | 5.?
 | [WP Vagrant](https://github.com/digitalquery/wp-vagrant) | shell | nginx | 5.5.x
+| [Basic WordPress Vagrant](https://github.com/ideasonpurpose/basic-wordpress-vagrant) | ansible | apache | 5.5.x
 
 ## Provisioners
 | Provisioner
