@@ -19,7 +19,6 @@
 | [Trellis](https://github.com/roots/trellis) | ansible | nginx | 5.6.x
 | [Genesis WordPress](https://github.com/genesis/wordpress/) | ansible | apache | 5.?
 | [WordPress Kickstart](https://github.com/jnettome/wordpress_kickstart) | puppet | nginx | 5.?
-| [Vagrant, nginx, WordPress, Puppet](https://github.com/MikeRogers0/vagrant-nginx-wordpress-puppet) | puppet | nginx | 5.4 
 | [Monkey Rocket](https://github.com/Cikica/monkeyrocket) | shell | nginx | 5.?
 | [WordPress Machine](https://github.com/audionerd/wordpress-machine) | shell | apache | 5.3.10
 | [Vagrant Ansible WordPress](https://github.com/jalefkowit/vagrant-ansible-wordpress) | ansible | apache | 5.?
