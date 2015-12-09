@@ -27,6 +27,7 @@
 | [ansible-wordpress-nginx-php-fpm-mariadb](https://github.com/davidneudorfer/ansible-wordpress-nginx-php-fpm-mariadb) | ansible | nginx | 5.4
 | [Vagrant Ansible Auto WordPress](https://github.com/davidneudorfer/vagrant-ansible-auto-wordpress) | ansible | nginx | 5.?
 | [WP Vagrant](https://github.com/digitalquery/wp-vagrant) | shell | nginx | 5.5.x
+| [Basic WordPress Vagrant](https://github.com/ideasonpurpose/basic-wordpress-vagrant) | ansible | apache | 5.5.x
 
 ## Provisioners
 | Provisioner
